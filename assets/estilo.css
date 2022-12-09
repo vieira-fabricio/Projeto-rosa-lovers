@@ -70,7 +70,7 @@ reader, .navbar {
     margin-bottom: 30px;
 }
 
-.sessaoInformacoes_historia #historia {
+#sessaoInformacoes_historia .historia {
     color: white;
     background-color: #353d41;
     padding: 10px;
@@ -89,7 +89,7 @@ reader, .navbar {
     display: block;
 }
 
-.sessaoInformacoes_formacaoAtual #formacao-atual {
+#sessaoInformacoes_formacaoAtual .formacao-atual {
     color: white;
     background-color: #353d41;
     padding: 10px;
@@ -100,7 +100,7 @@ reader, .navbar {
     border-bottom: 1px solid black;
 }
 
-.sessaoImagens_discografia #discografia {
+#sessaoImagens_discografia .discografia {
     color: white;
     background-color: #353d41;
     padding: 10px;
